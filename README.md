@@ -12,7 +12,7 @@ Medium link: https://medium.com/@ricardo.auedDS
 
 Linkedin link: https://www.linkedin.com/feed/?trk=nav_logo
 
-Youtube link:
+Youtube link: https://www.youtube.com/channel/UCb-qDdWY-gaH_hQlZL2OYqw
 
 #### Projects:
 * 1:
