@@ -15,7 +15,7 @@ Linkedin link: https://www.linkedin.com/feed/?trk=nav_logo
 Youtube link: https://www.youtube.com/channel/UCb-qDdWY-gaH_hQlZL2OYqw
 
 #### Projects:
-* 1: Abnb análise - https://colab.research.google.com/drive/1kfW1tR2DmwNPem7QsP2xdhIg23idjSev#scrollTo=plk2FjbCXOqP&uniqifier=1
+* 1: Abnb análise - https://colab.research.google.com/drive/1gTWQthF6GnBpxJ6Fu7kYJzhdVMVoGRj-
 * 2:
 * 3:
 * 4:
