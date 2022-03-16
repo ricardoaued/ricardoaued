@@ -17,6 +17,6 @@ Youtube link: https://www.youtube.com/channel/UCb-qDdWY-gaH_hQlZL2OYqw
 #### Projects:
 * 1: Abnb análise - https://colab.research.google.com/drive/1gTWQthF6GnBpxJ6Fu7kYJzhdVMVoGRj-
 * 2: Grafo e correlação COVID-19: https://docs.google.com/document/d/1KvcQPLjmjjKO0k-4WkcccMSCNgPCOIReFd34rbEta6o/edit?usp=sharing
-* 3:
+* 3: Panorama dos casos de COIV-19 no mundo: https://colab.research.google.com/github/ricardoaued/datascience/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb
 * 4:
 * 5:
