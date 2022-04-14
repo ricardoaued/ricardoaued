@@ -8,11 +8,15 @@
 
 ### Background in: Python, Data Science, Machine Learning, Finance, Economics.
 
+Python bibliotecas: Matplolib, Skitlearn, numpy
+Python scripts, SQL básico, excel intermediário
+Data storytelling, técnicas de vizualização aprimoradas, técnicas para lidar com dados ausentes, outliers
+
 Medium link: https://medium.com/@ricardo.auedDS
 
 Linkedin link: https://www.linkedin.com/feed/?trk=nav_logo
 
-Youtube link: https://www.youtube.com/channel/UCb-qDdWY-gaH_hQlZL2OYqw
+Youtube link: https://www.youtube.com/channel/UCb-qDdWY-gaH_hQlZL2OYqw/videos
 
 #### Projects:
 * 1: Abnb análise - https://colab.research.google.com/drive/1gTWQthF6GnBpxJ6Fu7kYJzhdVMVoGRj-
