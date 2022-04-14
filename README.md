@@ -18,6 +18,9 @@ Linkedin link: https://www.linkedin.com/feed/?trk=nav_logo
 
 Youtube link: https://www.youtube.com/channel/UCb-qDdWY-gaH_hQlZL2OYqw/videos
 
+### Pyhon scripts projects:
+
+
 #### Projects:
 * 1: Abnb análise - https://colab.research.google.com/drive/1gTWQthF6GnBpxJ6Fu7kYJzhdVMVoGRj-
 * 2: Grafo e correlação COVID-19: https://docs.google.com/document/d/1KvcQPLjmjjKO0k-4WkcccMSCNgPCOIReFd34rbEta6o/edit?usp=sharing
