@@ -9,11 +9,11 @@
 ### Background in: Python, Data Science, Machine Learning, Finance, Economics.
 
 ### Skills:
-Python bibliotecas: Matplolib, Skitlearn, numpy
+>Python bibliotecas: Matplolib, Skitlearn, numpy
 
-Python scripts, SQL básico, excel intermediário
+>Python scripts, SQL básico, excel intermediário
 
-Data storytelling, técnicas de vizualização aprimoradas, técnicas para lidar com dados ausentes, outliers
+>Data storytelling, técnicas de vizualização aprimoradas, técnicas para lidar com dados ausentes, outliers
 
 Medium link: https://medium.com/@ricardo.auedDS
 
