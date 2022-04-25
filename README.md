@@ -14,7 +14,7 @@ Data storytelling, técnicas de vizualização aprimoradas, técnicas para lidar
 
 Medium link: https://medium.com/@ricardo.auedDS
 
-Linkedin link: https://www.linkedin.com/feed/?trk=nav_logo
+Linkedin link: www.linkedin.com/in/ricardo-aued-19400317a
 
 Youtube link: https://www.youtube.com/channel/UCb-qDdWY-gaH_hQlZL2OYqw/videos
 
