@@ -10,7 +10,9 @@
 
 ### Skills:
 Python bibliotecas: Matplolib, Skitlearn, numpy
+
 Python scripts, SQL básico, excel intermediário
+
 Data storytelling, técnicas de vizualização aprimoradas, técnicas para lidar com dados ausentes, outliers
 
 Medium link: https://medium.com/@ricardo.auedDS
