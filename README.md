@@ -25,8 +25,6 @@ Youtube link: https://www.youtube.com/channel/UCb-qDdWY-gaH_hQlZL2OYqw/videos
 
 
 ### Data Science Projects:
-* 1: Abnb análise - https://colab.research.google.com/drive/1gTWQthF6GnBpxJ6Fu7kYJzhdVMVoGRj-
+* 1: Abnb análise exploratória - https://colab.research.google.com/drive/1gTWQthF6GnBpxJ6Fu7kYJzhdVMVoGRj-
 * 2: Grafo e correlação COVID-19: https://drive.google.com/file/d/1iQp21ORfKVlZQ5mUTDQ0_kqOgtMuw-gx/view?usp=sharing
-* 3: Panorama dos casos de COVID-19 no mundo: https://colab.research.google.com/github/ricardoaued/datascience/blob/main/Panorama_do_COVID_19_no_Brasil.ipynb
-* 4:
-* 5:
+* 3: Análise e Modelos de previsão de Fraude de Cartão de Crédito: https://colab.research.google.com/drive/1cXJVQnLLs1a0JaLbiQt0q_85raqEC9BQ?usp=sharing
